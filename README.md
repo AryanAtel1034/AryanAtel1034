@@ -5,7 +5,7 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/aryan atel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan atel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-atel-b381ba22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan atel" height="30" width="40" /></a>
 <a href="https://fb.com/aryan atel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan atel" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan_atel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_atel_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryan_atel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_atel" height="30" width="40" /></a>
