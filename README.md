@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Atel</h1>
-<h3 align="center">Hi there! I am Aryan, a Second Year Undergraduate in Information Technology & Engineering at GH Raisoni College of Engineering (GHRCE) Nagpur. I am a Computer Enthusiast with a passion for doing Development and contributing to open source with what I already have while learning new skills to mark a footprint in the technological world. Well-versed with C++/C, and Java, diversifying myself by grasping and building projects on various frameworks, tools, and concepts like Flutter, Kotlin, Java,</h3>
+<h3 align="center">Hi there! I am Aryan, a Third Year Undergraduate in Information Technology & Engineering at GH Raisoni College of Engineering (GHRCE) Nagpur. I am a Computer Enthusiast with a passion for doing Development and contributing to open source with what I already have while learning new skills to mark a footprint in the technological world. Well-versed with C++/C, and Java, diversifying myself by grasping and building projects on various frameworks, tools, and concepts like Flutter, Kotlin, Java,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanatel1034&label=Profile%20views&color=0e75b6&style=flat" alt="aryanatel1034" /> </p>
 
