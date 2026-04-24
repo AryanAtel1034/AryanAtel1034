@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Aryan Atel</h1>
 <!-- <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div> -->
-<h3 align="center">An Aspiring DevOps Engineer From India. Experience in DevOps tools and AWS, I am proficient in setting up and managing the cloud infrastructure with CI/CD. I
+<h3 align="center">An DevOps Engineer From India. Experience in DevOps tools and AWS, I am proficient in setting up and managing the cloud infrastructure with CI/CD. I
 can automate the SDLC process, which ultimately improving the Software quality and Development Process resulting in
 contribution to the growth of the organization.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
